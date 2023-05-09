@@ -1,2 +1,2 @@
 # srb2p-assets
-Temporary.
+Temporary for SRB2P Flatpak.
