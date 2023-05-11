@@ -1,2 +1,3 @@
 # srb2p-assets
-Temporary for SRB2P Flatpak.
+Assets used by SRB2P flatpak
+https://flathub.org/apps/org.srb2.SRB2Persona
